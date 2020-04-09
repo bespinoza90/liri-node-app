@@ -132,7 +132,7 @@ function findSong(song) {
 
     }
     else if (!song) {
-        song = "the sign"
+        song = "I Want it That Way"
         spotify.search({ type: 'track', query: song, limit: 10 })
             .then(function (response) {
 

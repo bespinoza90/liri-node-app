@@ -27,3 +27,34 @@ Artist: Backstreet Boys
 Song Name: I Want It That Way
 Album Name: The Hits--Chapter One
 Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=fa1465f013764a2a95de96e8d3c226ab
+
+Song Info for I Want It That Way
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Album Name: The Hits--Chapter One
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=fa1465f013764a2a95de96e8d3c226ab
+
+Movie Title: Happy Gilmore
+Release Year: 1996
+IMDB Rating: undefined
+Ratings: {"Source":"Rotten Tomatoes","Value":"61%"}
+The movie was made in: USA
+The language is: English
+The Plot is: A rejected hockey player puts his skills to the golf course to save his grandmother's house.
+The Actors are: Adam Sandler, Christopher McDonald, Julie Bowen, Frances Bay
+
+Concert Info for Lizzo
+Venue name: Banc of California Stadium
+Venue location: Los Angeles, CA, United States
+Date of event: 06/06/2020
+
+Concert Info for Kaytranada
+Venue name: Shrine Auditorium and Expo Hall
+Venue location: Los Angeles, CA, United States
+Date of event: 04/24/2020
+
+Song Info for I Want It That Way
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Album Name: The Hits--Chapter One
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=fa1465f013764a2a95de96e8d3c226ab
